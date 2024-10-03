@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.prac.tests.FirstTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.237 s -- in com.prac.tests.FirstTest
